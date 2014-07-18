@@ -1,0 +1,8 @@
+.git*
+test/
+Gruntfile.js
+.jshintrc
+.jsbeautifyrc
+.editorconfig
+.gitignore
+.DS_Store

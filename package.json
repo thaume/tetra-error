@@ -1,0 +1,43 @@
+{
+  "name": "tetra-error",
+  "version": "0.0.1",
+  "description": "An express error handler",
+  "homepage": "https://github.com/viadeo/tetra-error",
+  "keywords": [
+    "node.js",
+    "express",
+    "tetra",
+    "viadeo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/viadeo/tetra-error.git"
+  },
+  "author": {
+    "name": "viadeo",
+    "url": "http://www.viadeo.com/"
+  },
+  "bugs": {
+    "url": "http://github.com/viadeo/tetra-error/issues"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-jsbeautifier": "~0.2.6"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "readme": "## tetra-error\n\n",
+  "readmeFilename": "README.md",
+  "_id": "tetra-error@0.0.1",
+  "dist": {
+    "shasum": "55ec5e0fa75a8139c3c37ac135519e9dafc2000b"
+  },
+  "_resolved": "git+https://0b37ba877d1d69c250c8b303cef1e8188d59b08a:x-oauth-basic@github.com/thaume/tetra-error.git#7f3057e984293f14a52d8dc3a7612166e6f32038",
+  "_from": "tetra-error@git+https://0b37ba877d1d69c250c8b303cef1e8188d59b08a:x-oauth-basic@github.com/thaume/tetra-error.git"
+}
